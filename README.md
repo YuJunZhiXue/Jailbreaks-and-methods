@@ -118,8 +118,5 @@ This competition proves a point: creative freedom matters. Professional artists,
 **[VIEW ENTRIES & VOTE]** → https://ko2bot.com/competition  
 
 
----
-
----
-
-
+-
+https://discord.gg/KpDByd6wz
