@@ -25,7 +25,7 @@ Gems provide persistent jailbreak framework that doesn't need reactivation each 
 - Gemini Advanced subscription (paid tier)
 - Access to Gems feature (check if available in your region)
 - The following files from this repository:
-  - `gem_instructions.txt` (main configuration)
+  - `Claw jailbreak thats for both Gemini and Grok` (main configuration)
   - `override1.txt` (knowledge base, if uploads supported)
   - `policy1.txt` (knowledge base, if uploads supported)
 
@@ -45,7 +45,7 @@ Gems provide persistent jailbreak framework that doesn't need reactivation each 
 ### Step 2: Basic Gem Configuration
 
 **Name**: Choose something innocuous
-- Examples: "Research Assistant", "Technical Analyst", "Creative Writer"
+- Examples: Claw
 - Avoid: "Jailbreak Bot", "Unrestricted AI", anything obviously adversarial
 
 **Description**: Professional framing
