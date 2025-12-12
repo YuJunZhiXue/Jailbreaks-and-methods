@@ -1,6 +1,6 @@
-## First a shoutout to UltraZartex for creating policty1.txt and his policy injection method. That's not mine
+## First a shoutout to UltraZartrex for creating policty1.txt and his policy injection method. That's not mine.
 
-## Another shoutout to HORSELOCK for coming up with the Canvavs method in his SpicyWriter forr ChatGPT
+## Another shoutout to HORSELOCK for coming up with the Canvavs method in his SpicyWriter for ChatGPT.
 
 ## Quick Start
 
@@ -49,11 +49,11 @@
 - Verifies configuration is active
 - Then use exploitation templates
 
-- # 🚀 Are you to lazy for this? Stop Jailbreaking, Start Creating
+- # 🚀 Are you too lazy for this? Stop Jailbreaking, Start Creating!
 
 ## Unlike me, some people find jailbreaking exhausting.
 
-This repository documents comprehensive jailbreak techniques across ChatGPT, Claude, Gemini, and Grok purely because I find it fun. But if you aren't like me, there is another option that allows unrestricted access to frontier mode.
+This repository documents comprehensive jailbreak techniques across ChatGPT, Claude, Gemini, and Grok purely because I find it fun. But if that's not your thing, there is another option that allows unrestricted access to frontier mode.
 ### The Unrestricted AI Platform that doesn't require you to go to base64decode.org for every query
 
 ### Introducing https://ko2bot.com/
