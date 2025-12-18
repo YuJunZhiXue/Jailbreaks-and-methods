@@ -1,6 +1,6 @@
 ## First a shoutout to UltraZartrex for creating policty1.txt and his policy injection method. That's not mine.
 
-## Another shoutout to HORSELOCK for coming up with the Canvavs method in his SpicyWriter for ChatGPT.
+## Another shoutout to HORSELOCK for coming up with the Canvas method in his SpicyWriter for ChatGPT.
 
 ## Quick Start
 
